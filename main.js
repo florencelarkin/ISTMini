@@ -166,11 +166,11 @@ var end_page = {
   };
 
 var fixed_block = {
-    timeline: [fixed_instructions, fixed, fixed]
+    timeline: [fixed_instructions, fixed, fixed, fixed]
   };
 
   var decreasing_block = {
-    timeline: [dec_instructions, decreasing, decreasing],
+    timeline: [dec_instructions, decreasing, decreasing, decreasing],
   };
 
 //randomize whether fixed win or decreasing win is first
