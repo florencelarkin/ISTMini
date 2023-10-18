@@ -159,7 +159,7 @@ var end_page = {
     type: jsPsychHtmlButtonResponse,
     stimulus: `
       <p>Thanks for participating!</p>
-      <p>Press 'FINISH' to complete the experiment</p>
+      <p>Press 'FINISH' to complete the task</p>
     `,
     choices: ['FINISH'],
     post_trial_gap: 2000
